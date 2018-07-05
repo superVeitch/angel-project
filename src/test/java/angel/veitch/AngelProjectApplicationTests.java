@@ -12,5 +12,4 @@ public class AngelProjectApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
-
 }
